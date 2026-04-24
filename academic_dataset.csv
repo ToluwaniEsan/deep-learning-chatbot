@@ -1,0 +1,1085 @@
+question,intent
+Who was the first president of the United States?,american_history
+What caused the Civil War?,american_history
+When did the American Revolution begin?,american_history
+What is the Declaration of Independence?,american_history
+Who wrote the Constitution?,american_history
+What was the Boston Tea Party?,american_history
+What were the causes of World War I for America?,american_history
+When did the United States enter World War II?,american_history
+What was the Emancipation Proclamation?,american_history
+Who was Abraham Lincoln?,american_history
+What was the Great Depression?,american_history
+What is Manifest Destiny?,american_history
+What was the Trail of Tears?,american_history
+Who were the Founding Fathers?,american_history
+What was the Reconstruction era?,american_history
+What was the Cold War?,american_history
+Who was Martin Luther King Jr?,american_history
+What was the Civil Rights Movement?,american_history
+What was the Louisiana Purchase?,american_history
+Who was George Washington?,american_history
+What was the significance of the Battle of Gettysburg?,american_history
+What was the New Deal?,american_history
+What caused the American Revolution?,american_history
+What was the Missouri Compromise?,american_history
+Who was Thomas Jefferson?,american_history
+What happened at Pearl Harbor?,american_history
+What was Reconstruction after the Civil War?,american_history
+What were the Jim Crow laws?,american_history
+What was the significance of the Gettysburg Address?,american_history
+What was the Vietnam War about?,american_history
+What is the Pythagorean theorem?,math
+How do you solve a quadratic equation?,math
+What is the order of operations?,math
+What is a derivative in calculus?,math
+How do you find the area of a circle?,math
+What is a prime number?,math
+What is the quadratic formula?,math
+How do you calculate the slope of a line?,math
+What is an integral?,math
+What is the difference between mean median and mode?,math
+How do you simplify fractions?,math
+What is a matrix in math?,math
+What is the binomial theorem?,math
+How do you solve systems of equations?,math
+What is a logarithm?,math
+What is the Fundamental Theorem of Calculus?,math
+How do you find the volume of a sphere?,math
+What is a function in mathematics?,math
+What is the difference between permutations and combinations?,math
+What is pi?,math
+How do you factor a polynomial?,math
+What is a limit in calculus?,math
+What is the chain rule?,math
+How do you convert fractions to decimals?,math
+What is an exponent?,math
+What is the quadratic formula used for?,math
+What is probability?,math
+How do you find the greatest common factor?,math
+What is the Pythagorean triple?,math
+What is standard deviation?,math
+What is a metaphor?,english
+What is the difference between a simile and a metaphor?,english
+What is a thesis statement?,english
+How do you write a topic sentence?,english
+What is foreshadowing in literature?,english
+What is the difference between active and passive voice?,english
+What is irony?,english
+What is an allegory?,english
+How do you write a conclusion paragraph?,english
+What is the difference between a novel and a short story?,english
+What is characterization in literature?,english
+What is a protagonist?,english
+What is an antagonist?,english
+What is alliteration?,english
+What is personification?,english
+What is the difference between connotation and denotation?,english
+What is a soliloquy?,english
+What is the difference between prose and poetry?,english
+What is a haiku?,english
+What is symbolism in literature?,english
+What is the plot structure of a story?,english
+What is a rhetorical question?,english
+What is the difference between fiction and nonfiction?,english
+What is imagery in writing?,english
+What is an oxymoron?,english
+What is stream of consciousness in writing?,english
+What is the difference between a comedy and a tragedy?,english
+What is a motif in literature?,english
+What is diction in writing?,english
+What is a literary device?,english
+What is color theory in art?,art
+Who was Leonardo da Vinci?,art
+What is the difference between painting and drawing?,art
+What is impressionism?,art
+Who was Pablo Picasso?,art
+What is abstract art?,art
+What is the Renaissance in art?,art
+What is composition in art?,art
+What is perspective in drawing?,art
+What is chiaroscuro?,art
+Who was Vincent van Gogh?,art
+What is surrealism?,art
+What is the difference between 2D and 3D art?,art
+What are the primary colors?,art
+What is a still life in art?,art
+What is pointillism?,art
+What is sculpture?,art
+Who was Michelangelo?,art
+What is pop art?,art
+What is the golden ratio in art?,art
+What is cubism?,art
+Who was Frida Kahlo?,art
+What is watercolor painting?,art
+What is the difference between realism and abstraction?,art
+What is negative space in art?,art
+What is typography?,art
+What is a mural?,art
+What is expressionism in art?,art
+What is collage as an art form?,art
+What is the Baroque period in art?,art
+What is democracy?,politics
+What is the difference between a republic and a democracy?,politics
+What are the three branches of the US government?,politics
+What is federalism?,politics
+What is the Electoral College?,politics
+What is a political party?,politics
+What is capitalism?,politics
+What is socialism?,politics
+What is the role of the Supreme Court?,politics
+What is a filibuster?,politics
+What is separation of powers?,politics
+What is the Bill of Rights?,politics
+What is gerrymandering?,politics
+What is the difference between liberalism and conservatism?,politics
+What is a veto?,politics
+What is diplomacy?,politics
+What is NATO?,politics
+What is the United Nations?,politics
+What is propaganda?,politics
+What is the difference between foreign policy and domestic policy?,politics
+What is an amendment to the Constitution?,politics
+What is checks and balances?,politics
+What is a referendum?,politics
+What is lobbying?,politics
+What is the role of the President?,politics
+What is a political ideology?,politics
+What is the difference between a senator and a representative?,politics
+What is the role of the vice president?,politics
+What is civil liberties?,politics
+What is the two-party system?,politics
+What is a cell?,biology
+What is DNA?,biology
+What is the difference between mitosis and meiosis?,biology
+What is natural selection?,biology
+What is photosynthesis?,biology
+What is the cell membrane?,biology
+What is an ecosystem?,biology
+What is a chromosome?,biology
+What is the difference between prokaryotes and eukaryotes?,biology
+What is evolution?,biology
+What is cellular respiration?,biology
+What is a gene?,biology
+What is a protein?,biology
+What is the difference between RNA and DNA?,biology
+What is homeostasis?,biology
+What is a food chain?,biology
+What is a mutation?,biology
+What is the nervous system?,biology
+What is osmosis?,biology
+What is taxonomy in biology?,biology
+What is CRISPR?,biology
+What is a stem cell?,biology
+What is the circulatory system?,biology
+What is a biome?,biology
+What is meiosis?,biology
+What is an enzyme?,biology
+What is the difference between a virus and a bacteria?,biology
+What is biodiversity?,biology
+What is the endocrine system?,biology
+What is ATP in biology?,biology
+What is Newton's first law of motion?,physics
+What is the speed of light?,physics
+What is gravity?,physics
+What is the difference between mass and weight?,physics
+What is energy?,physics
+What is the law of conservation of energy?,physics
+What is a wave?,physics
+What is the difference between kinetic and potential energy?,physics
+What is electromagnetism?,physics
+What is quantum mechanics?,physics
+What is the theory of relativity?,physics
+What is a black hole?,physics
+What is friction?,physics
+What is thermodynamics?,physics
+What is momentum?,physics
+What is Ohm's law?,physics
+What is nuclear fission?,physics
+What is the difference between speed and velocity?,physics
+What is a photon?,physics
+What is the strong nuclear force?,physics
+What is Schrodinger's cat?,physics
+What is dark matter?,physics
+What is entropy?,physics
+What is the Doppler effect?,physics
+What is electric current?,physics
+What is refraction of light?,physics
+What is the Heisenberg uncertainty principle?,physics
+What is centripetal force?,physics
+What is the difference between AC and DC current?,physics
+What is string theory?,physics
+What is the Civil War?,american_history
+Explain the American Revolution in simple terms?,american_history
+Can you explain the Declaration of Independence?,american_history
+Help me understand the U.S. Constitution?,american_history
+I need to know about the Bill of Rights for a quiz?,american_history
+What does Reconstruction mean?,american_history
+Give me an overview of the Great Depression?,american_history
+Why does the New Deal matter in this course?,american_history
+How would you define World War I and the U.S.?,american_history
+What should I remember about World War II and the U.S.?,american_history
+My teacher asked about the Cold War — what is it?,american_history
+Short answer: what is the Civil Rights Movement?,american_history
+Compare and contrast ideas related to Manifest Destiny?,american_history
+What are the key facts about the Louisiana Purchase?,american_history
+Is the Boston Tea Party important for the exam?,american_history
+Walk me through George Washington step by step?,american_history
+What causes Thomas Jefferson?,american_history
+When did Abraham Lincoln happen or emerge?,american_history
+Who is most associated with the Emancipation Proclamation?,american_history
+Where does the Gettysburg Address show up in real life?,american_history
+What is a common misconception about the Trail of Tears?,american_history
+How do I study Jim Crow laws effectively?,american_history
+What is the basic idea behind the Vietnam War?,american_history
+Could you summarize the Korean War?,american_history
+What is one example of the Spanish-American War?,american_history
+What problem does the Seneca Falls Convention help solve?,american_history
+How is the Gilded Age used in practice?,american_history
+What is the history of Progressive Era reforms?,american_history
+What are the main parts of the Harlem Renaissance?,american_history
+What tools or methods relate to the Space Race?,american_history
+What would a beginner ask about Watergate?,american_history
+Advanced question about the Articles of Confederation?,american_history
+College-level explanation of Federalist vs Anti-Federalist debates?,american_history
+High school homework on Marbury v. Madison?,american_history
+Define Brown v. Board of Education like I am new to the topic?,american_history
+ELI5: the Montgomery Bus Boycott?,american_history
+"In one paragraph, what is the March on Washington?",american_history
+Exam prep: Native American removal policies?,american_history
+Study guide entry for westward expansion?,american_history
+Concept check: the Homestead Act?,american_history
+True or false background on the transcontinental railroad?,american_history
+Why is the Industrial Revolution in America taught in this subject?,american_history
+How does labor unions in the early 1900s connect to other topics?,american_history
+Quick facts about women's suffrage in the U.S?,american_history
+What textbook section covers Prohibition?,american_history
+Discussion question about the Roaring Twenties?,american_history
+Research topic: the Dust Bowl?,american_history
+Notes on Japanese American internment?,american_history
+Clarify the Marshall Plan from a U.S. perspective for me?,american_history
+I am confused about NATO founding and U.S. role?,american_history
+Difference between the Cuban Missile Crisis and related ideas?,american_history
+Importance of the War on Poverty?,american_history
+Limitations or debates around the Great Society?,american_history
+Modern view of the Iran hostage crisis?,american_history
+Primary sources about the Reagan era?,american_history
+Timeline involving September 11 and its aftermath?,american_history
+Key vocabulary: the Patriot Act debate?,american_history
+Problem set mentions the Affordable Care Act political context?,american_history
+Lab report context: checks and balances in U.S. history?,american_history
+Essay prompt on slavery and abolition?,american_history
+Thesis idea involving the Underground Railroad?,american_history
+Analyze the Compromise of 1850?,american_history
+Interpret the Dred Scott decision?,american_history
+Critique the Battle of Gettysburg?,american_history
+Describe Pearl Harbor?,american_history
+Outline D-Day?,american_history
+List three things about the Manhattan Project?,american_history
+What would you teach first about the Eisenhower Doctrine?,american_history
+Study question: McCarthyism?,american_history
+Practice question on the Little Rock Nine?,american_history
+Mock test: Freedom Riders?,american_history
+Review sheet item: Black Power movement?,american_history
+Midterm might include the Chicano Movement?,american_history
+Final exam topic immigration waves in U.S. history?,american_history
+AP-style question on Ellis Island?,american_history
+IB question on Angel Island?,american_history
+SAT-related: Chinese Exclusion Act?,american_history
+Remedial help with the Bracero Program?,american_history
+Honors class question on the Zoot Suit Riots?,american_history
+Dual enrollment question: League of Nations rejection?,american_history
+Explain the quadratic formula in simple terms?,math
+Can you explain factoring polynomials?,math
+Help me understand the slope-intercept form?,math
+I need to know about systems of linear equations for a quiz?,math
+What does exponential functions mean?,math
+Give me an overview of logarithms?,math
+Why does the unit circle matter in this course?,math
+How would you define trigonometric identities?,math
+What should I remember about limits in calculus?,math
+My teacher asked about derivatives — what is it?,math
+Short answer: what is the chain rule?,math
+Compare and contrast ideas related to implicit differentiation?,math
+What are the key facts about integration by parts?,math
+Is definite integrals important for the exam?,math
+Walk me through the Fundamental Theorem of Calculus step by step?,math
+What causes partial fractions?,math
+When did sequences and series happen or emerge?,math
+Who is most associated with geometric series convergence?,math
+Where does the binomial theorem show up in real life?,math
+What is a common misconception about combinations and permutations?,math
+How do I study probability basics effectively?,math
+What is the basic idea behind normal distribution?,math
+Could you summarize hypothesis testing intuition?,math
+What is one example of linear regression?,math
+What problem does matrix multiplication help solve?,math
+How is determinants used in practice?,math
+What is the history of eigenvalues and eigenvectors?,math
+What are the main parts of vectors in R2 and R3?,math
+What tools or methods relate to dot product and cross product?,math
+What would a beginner ask about complex numbers?,math
+Advanced question about De Moivre's theorem?,math
+College-level explanation of polar coordinates?,math
+High school homework on parametric equations?,math
+Define conic sections like I am new to the topic?,math
+ELI5: optimization with calculus?,math
+"In one paragraph, what is related rates problems?",math
+Exam prep: L'Hopital's rule?,math
+Study guide entry for Taylor polynomials?,math
+Concept check: Riemann sums?,math
+True or false background on area between curves?,math
+Why is volume of revolution taught in this subject?,math
+How does differential equations basics connect to other topics?,math
+Quick facts about slope fields?,math
+What textbook section covers Euler's method?,math
+Discussion question about arithmetic series?,math
+Research topic: geometric mean vs arithmetic mean?,math
+Notes on absolute value inequalities?,math
+Clarify piecewise functions for me?,math
+I am confused about transformations of graphs?,math
+Difference between inverse functions and related ideas?,math
+Importance of composition of functions?,math
+Limitations or debates around domain and range?,math
+Modern view of rational functions asymptotes?,math
+Primary sources about log rules?,math
+Timeline involving natural logarithm?,math
+Key vocabulary: compound interest formula?,math
+Problem set mentions half-life exponential decay?,math
+Lab report context: radians vs degrees?,math
+Essay prompt on law of sines?,math
+Thesis idea involving law of cosines?,math
+Analyze triangle congruence shortcuts?,math
+Interpret circle theorems?,math
+Critique coordinate geometry distance?,math
+Describe midpoint formula?,math
+Outline completing the square?,math
+List three things about vertex form of a parabola?,math
+What would you teach first about discriminant meaning?,math
+Study question: imaginary roots?,math
+Practice question on function notation f(x)?,math
+Mock test: even and odd functions?,math
+Review sheet item: symmetry of graphs?,math
+Midterm might include inequalities on a number line?,math
+Final exam topic set builder notation?,math
+AP-style question on proof by induction introduction?,math
+IB question on contradiction proof style?,math
+SAT-related: number sets N Z Q R?,math
+Remedial help with GCF and LCM word problems?,math
+Honors class question on unit conversion dimensional analysis?,math
+Dual enrollment question: scientific notation operations?,math
+What is Shakespeare's sonnets?,english
+Explain iambic pentameter in simple terms?,english
+Can you explain metaphor vs simile?,english
+Help me understand thesis statements?,english
+I need to know about topic sentences for a quiz?,english
+What does MLA citation basics mean?,english
+Give me an overview of literary analysis?,english
+Why does characterization methods matter in this course?,english
+How would you define foreshadowing?,english
+What should I remember about irony in literature?,english
+My teacher asked about stream of consciousness — what is it?,english
+Short answer: what is the unreliable narrator?,english
+Compare and contrast ideas related to Gothic literature traits?,english
+What are the key facts about Romantic poetry themes?,english
+Is Modernist literature important for the exam?,english
+Walk me through postcolonial literature step by step?,english
+What causes the hero's journey?,english
+When did dramatic irony happen or emerge?,english
+Who is most associated with soliloquy?,english
+Where does blank verse show up in real life?,english
+What is a common misconception about epic poetry conventions?,english
+How do I study ode structure effectively?,english
+What is the basic idea behind villanelle form?,english
+Could you summarize haiku rules?,english
+What is one example of free verse?,english
+What problem does enjambment help solve?,english
+How is caesura used in practice?,english
+What is the history of alliteration and assonance?,english
+What are the main parts of symbolism in novels?,english
+What tools or methods relate to motif vs theme?,english
+What would a beginner ask about point of view first vs third?,english
+Advanced question about close reading strategies?,english
+College-level explanation of rhetorical appeals ethos pathos logos?,english
+High school homework on rhetorical situation?,english
+Define counterargument and rebuttal like I am new to the topic?,english
+ELI5: synthesis essays?,english
+"In one paragraph, what is compare-and-contrast structure?",english
+Exam prep: narrative voice?,english
+Study guide entry for diction and tone?,english
+Concept check: syntax and style?,english
+True or false background on parallelism in writing?,english
+Why is anaphora taught in this subject?,english
+How does chiasmus connect to other topics?,english
+Quick facts about zeugma?,english
+What textbook section covers oxymoron?,english
+Discussion question about hyperbole?,english
+Research topic: understatement?,english
+Notes on satire techniques?,english
+Clarify allegory for me?,english
+I am confused about pastoral literature?,english
+Difference between the American Dream in literature and related ideas?,english
+Importance of Southern Gothic?,english
+Limitations or debates around Harlem Renaissance writers?,english
+Modern view of Transcendentalism?,english
+Primary sources about Dark Romanticism?,english
+Timeline involving Victorian literature context?,english
+Key vocabulary: Beowulf overview?,english
+Problem set mentions Canterbury Tales framing?,english
+Lab report context: Paradise Lost themes?,english
+Essay prompt on Frankenstein themes?,english
+Thesis idea involving Pride and Prejudice themes?,english
+Analyze Jane Eyre motifs?,english
+Interpret Wuthering Heights setting?,english
+Critique Moby-Dick symbolism?,english
+Describe The Great Gatsby symbols?,english
+Outline To Kill a Mockingbird themes?,english
+List three things about 1984 dystopian elements?,english
+What would you teach first about Brave New World comparison?,english
+Study question: Lord of the Flies allegory?,english
+Practice question on The Catcher in the Rye voice?,english
+Mock test: Beloved by Toni Morrison themes?,english
+Review sheet item: The Things They Carried style?,english
+Midterm might include poetry explication method?,english
+Final exam topic prosody basics?,english
+AP-style question on scansion introduction?,english
+IB question on grammar: who vs whom?,english
+SAT-related: comma splice fixes?,english
+Remedial help with semicolon usage?,english
+Honors class question on colon usage?,english
+Dual enrollment question: dangling modifiers?,english
+What is Renaissance perspective?,art
+Explain chiaroscuro in simple terms?,art
+Can you explain Impressionism characteristics?,art
+Help me understand Post-Impressionism?,art
+I need to know about Cubism basics for a quiz?,art
+What does Abstract Expressionism mean?,art
+Give me an overview of Pop Art movement?,art
+Why does Baroque drama in painting matter in this course?,art
+How would you define Neoclassicism?,art
+What should I remember about Romanticism in art?,art
+My teacher asked about Realism in 19th century painting — what is it?,art
+Short answer: what is Art Nouveau?,art
+Compare and contrast ideas related to Bauhaus design principles?,art
+What are the key facts about color theory complementary colors?,art
+Is warm vs cool colors important for the exam?,art
+Walk me through value scales in drawing step by step?,art
+What causes gesture drawing?,art
+When did contour line drawing happen or emerge?,art
+Who is most associated with negative space composition?,art
+Where does rule of thirds show up in real life?,art
+What is a common misconception about golden ratio in composition?,art
+How do I study symmetry vs asymmetry effectively?,art
+What is the basic idea behind focal point in a painting?,art
+Could you summarize leading lines in composition?,art
+What is one example of texture in mixed media?,art
+What problem does printmaking: etching help solve?,art
+How is printmaking: linocut used in practice?,art
+What is the history of sculpture: relief vs in-the-round?,art
+What are the main parts of bronze casting lost-wax process?,art
+What tools or methods relate to site-specific installation art?,art
+What would a beginner ask about performance art basics?,art
+Advanced question about conceptual art?,art
+College-level explanation of minimalism in art?,art
+High school homework on readymade Duchamp?,art
+Define collage techniques like I am new to the topic?,art
+ELI5: photography composition basics?,art
+"In one paragraph, what is digital art layers?",art
+Exam prep: vector vs raster graphics?,art
+Study guide entry for typography hierarchy?,art
+Concept check: logo design principles?,art
+True or false background on the color wheel?,art
+Why is tints shades tones taught in this subject?,art
+How does acrylic vs oil paint connect to other topics?,art
+Quick facts about watercolor washes?,art
+What textbook section covers figure drawing proportions?,art
+Discussion question about portrait lighting patterns?,art
+Research topic: still life setup?,art
+Notes on one-point perspective?,art
+Clarify two-point perspective for me?,art
+I am confused about three-point perspective?,art
+Difference between atmospheric perspective and related ideas?,art
+Importance of vanishing point errors?,art
+Limitations or debates around Picasso Blue Period?,art
+Modern view of Picasso Rose Period?,art
+Primary sources about Guernica symbolism?,art
+Timeline involving Monet haystacks series?,art
+Key vocabulary: Van Gogh brushwork?,art
+Problem set mentions Klimt The Kiss patterns?,art
+Lab report context: Kandinsky abstraction ideas?,art
+Essay prompt on Pollock drip painting?,art
+Thesis idea involving Rothko color fields?,art
+Analyze Warhol repetition and consumerism?,art
+Interpret Basquiat neo-expressionism?,art
+Critique Frida Kahlo symbolism?,art
+Describe Georgia O'Keeffe scale and flowers?,art
+Outline Artemisia Gentileschi drama?,art
+List three things about Caravaggio tenebrism?,art
+What would you teach first about Bernini sculpture dynamism?,art
+Study question: Michelangelo Sistine Ceiling?,art
+Practice question on Leonardo sfumato?,art
+Mock test: Raphael School of Athens balance?,art
+Review sheet item: Brunelleschi's dome engineering art?,art
+Midterm might include Gothic architecture features?,art
+Final exam topic Romanesque vs Gothic?,art
+AP-style question on Byzantine mosaics?,art
+IB question on Islamic geometric patterns?,art
+SAT-related: Japanese ukiyo-e prints?,art
+Remedial help with Chinese landscape painting scrolls?,art
+Honors class question on African masks formal analysis?,art
+Dual enrollment question: Oceanic art patterns?,art
+Explain checks and balances in simple terms?,politics
+Can you explain federalism basics?,politics
+Help me understand the Electoral College?,politics
+I need to know about gerrymandering for a quiz?,politics
+What does voting rights history mean?,politics
+Give me an overview of the filibuster?,politics
+Why does Congress vs Parliament comparison matter in this course?,politics
+How would you define the President's veto power?,politics
+What should I remember about judicial review?,politics
+My teacher asked about Marbury v. Madison importance — what is it?,politics
+Short answer: what is Brown v. Board of Education?,politics
+Compare and contrast ideas related to Roe v. Wade overview?,politics
+What are the key facts about Citizens United effects?,politics
+Is the two-party system important for the exam?,politics
+Walk me through third parties in the U.S. step by step?,politics
+What causes primaries and caucuses?,politics
+When did the Electoral Count Act context happen or emerge?,politics
+Who is most associated with impeachment process?,politics
+Where does the 25th Amendment show up in real life?,politics
+What is a common misconception about the 14th Amendment equal protection?,politics
+How do I study due process clause effectively?,politics
+What is the basic idea behind First Amendment speech limits?,politics
+Could you summarize establishment clause basics?,politics
+What is one example of Second Amendment debates?,politics
+What problem does Fourth Amendment searches help solve?,politics
+How is Miranda rights used in practice?,politics
+What is the history of Sixth Amendment fair trial?,politics
+What are the main parts of Eighth Amendment cruel and unusual?,politics
+What tools or methods relate to interest groups vs political parties?,politics
+What would a beginner ask about PACs and Super PACs?,politics
+Advanced question about lobbying regulation?,politics
+College-level explanation of iron triangle model?,politics
+High school homework on issue networks?,politics
+Define public opinion polling limits like I am new to the topic?,politics
+ELI5: political socialization?,politics
+"In one paragraph, what is political ideology spectrum?",politics
+Exam prep: liberal vs conservative labels?,politics
+Study guide entry for libertarianism basics?,politics
+Concept check: social democracy?,politics
+True or false background on authoritarianism traits?,politics
+Why is totalitarianism traits taught in this subject?,politics
+How does regime types overview connect to other topics?,politics
+Quick facts about democratic backsliding?,politics
+What textbook section covers constitution vs statutory law?,politics
+Discussion question about common law tradition?,politics
+Research topic: civil law tradition comparison?,politics
+Notes on rule of law?,politics
+Clarify state of nature thought experiment for me?,politics
+I am confused about social contract theory?,politics
+Difference between Hobbes Locke Rousseau comparison and related ideas?,politics
+Importance of Montesquieu separation of powers influence?,politics
+Limitations or debates around Madison Federalist 10 factions?,politics
+Modern view of pluralism theory?,politics
+Primary sources about elitism theory?,politics
+Timeline involving classical realism in IR?,politics
+Key vocabulary: structural realism Waltz?,politics
+Problem set mentions liberal institutionalism?,politics
+Lab report context: constructivism in IR?,politics
+Essay prompt on soft power concept?,politics
+Thesis idea involving hard power concept?,politics
+Analyze NATO purpose?,politics
+Interpret UN Security Council veto?,politics
+Critique international law vs domestic law?,politics
+Describe treaty ratification in the U.S?,politics
+Outline war powers resolution?,politics
+List three things about isolationism vs internationalism?,politics
+What would you teach first about Cold War containment?,politics
+Study question: détente?,politics
+Practice question on mutually assured destruction?,politics
+Mock test: nuclear proliferation concerns?,politics
+Review sheet item: humanitarian intervention debate?,politics
+Midterm might include R2P responsibility to protect?,politics
+Final exam topic sanctions as foreign policy?,politics
+AP-style question on tariffs and trade politics?,politics
+IB question on WTO basics?,politics
+SAT-related: IMF basics?,politics
+Remedial help with World Bank basics?,politics
+Honors class question on Brexit causes high school level?,politics
+Dual enrollment question: EU institutions simplified?,politics
+What is cell theory?,biology
+Explain prokaryotes vs eukaryotes in simple terms?,biology
+Can you explain the nucleus?,biology
+Help me understand mitochondria function?,biology
+I need to know about chloroplasts for a quiz?,biology
+What does ribosomes mean?,biology
+Give me an overview of the endoplasmic reticulum?,biology
+Why does the Golgi apparatus matter in this course?,biology
+How would you define lysosomes?,biology
+What should I remember about the cell membrane?,biology
+My teacher asked about osmosis — what is it?,biology
+Short answer: what is diffusion vs facilitated diffusion?,biology
+Compare and contrast ideas related to active transport?,biology
+What are the key facts about enzyme kinetics basics?,biology
+Is competitive inhibition important for the exam?,biology
+Walk me through DNA replication step by step?,biology
+What causes transcription?,biology
+When did translation happen or emerge?,biology
+Who is most associated with the genetic code?,biology
+Where does mutations types show up in real life?,biology
+What is a common misconception about Meiosis vs mitosis?,biology
+How do I study Mendelian genetics effectively?,biology
+What is the basic idea behind punnett squares?,biology
+Could you summarize linked genes?,biology
+What is one example of population genetics Hardy-Weinberg?,biology
+What problem does natural selection mechanisms help solve?,biology
+How is speciation used in practice?,biology
+What is the history of phylogenetic trees?,biology
+What are the main parts of taxonomy domains?,biology
+What tools or methods relate to viruses vs cells?,biology
+What would a beginner ask about bacterial conjugation?,biology
+Advanced question about antibiotic resistance?,biology
+College-level explanation of the immune system innate vs adaptive?,biology
+High school homework on antibodies?,biology
+Define vaccination immune memory like I am new to the topic?,biology
+ELI5: blood types ABO?,biology
+"In one paragraph, what is the circulatory system?",biology
+Exam prep: the respiratory system?,biology
+Study guide entry for gas exchange in alveoli?,biology
+Concept check: the digestive system?,biology
+True or false background on photosynthesis light reactions?,biology
+Why is Calvin cycle taught in this subject?,biology
+How does cellular respiration glycolysis connect to other topics?,biology
+Quick facts about Krebs cycle?,biology
+What textbook section covers electron transport chain?,biology
+Discussion question about fermentation?,biology
+Research topic: ATP synthase?,biology
+Notes on homeostasis?,biology
+Clarify negative feedback loops for me?,biology
+I am confused about the nervous system synapse?,biology
+Difference between action potentials and related ideas?,biology
+Importance of resting membrane potential?,biology
+Limitations or debates around brain lobes functions?,biology
+Modern view of endocrine signaling?,biology
+Primary sources about insulin and glucagon?,biology
+Timeline involving kidney nephron function?,biology
+Key vocabulary: ecosystem energy flow?,biology
+Problem set mentions food webs vs food chains?,biology
+Lab report context: carrying capacity?,biology
+Essay prompt on logistic growth?,biology
+Thesis idea involving exponential growth?,biology
+Analyze niche partitioning?,biology
+Interpret symbiosis mutualism parasitism commensalism?,biology
+Critique succession primary vs secondary?,biology
+Describe biogeochemical cycles carbon?,biology
+Outline nitrogen cycle?,biology
+List three things about phosphorus cycle?,biology
+What would you teach first about greenhouse effect basics?,biology
+Study question: climate change biology impacts?,biology
+Practice question on biodiversity hotspots?,biology
+Mock test: invasive species?,biology
+Review sheet item: CRISPR gene editing?,biology
+Midterm might include stem cells?,biology
+Final exam topic cancer cell hallmarks overview?,biology
+AP-style question on apoptosis?,biology
+IB question on cell cycle checkpoints?,biology
+SAT-related: oncogenes vs tumor suppressors?,biology
+Remedial help with PCR technique purpose?,biology
+Honors class question on gel electrophoresis?,biology
+Dual enrollment question: DNA fingerprinting?,biology
+What is Newton's laws?,physics
+Explain force and motion in simple terms?,physics
+Can you explain friction types?,physics
+Help me understand free-body diagrams?,physics
+I need to know about work and energy for a quiz?,physics
+What does kinetic energy formula mean?,physics
+Give me an overview of potential energy gravitational?,physics
+Why does conservation of momentum matter in this course?,physics
+How would you define collisions elastic inelastic?,physics
+What should I remember about circular motion?,physics
+My teacher asked about centripetal acceleration — what is it?,physics
+Short answer: what is torque?,physics
+Compare and contrast ideas related to angular momentum?,physics
+What are the key facts about simple harmonic motion?,physics
+Is waves wavelength frequency important for the exam?,physics
+Walk me through sound waves step by step?,physics
+What causes Doppler effect?,physics
+When did standing waves happen or emerge?,physics
+Who is most associated with electric charge?,physics
+Where does Coulomb's law show up in real life?,physics
+What is a common misconception about electric field?,physics
+How do I study electric potential effectively?,physics
+What is the basic idea behind capacitors?,physics
+Could you summarize current and resistance?,physics
+What is one example of Ohm's law?,physics
+What problem does series vs parallel circuits help solve?,physics
+How is Kirchhoff's laws used in practice?,physics
+What is the history of magnetic fields?,physics
+What are the main parts of electromagnetic induction?,physics
+What tools or methods relate to Faraday's law?,physics
+What would a beginner ask about Lenz's law?,physics
+Advanced question about Maxwell equations one sentence each?,physics
+College-level explanation of electromagnetic spectrum?,physics
+High school homework on refraction Snell's law?,physics
+Define lenses ray diagrams like I am new to the topic?,physics
+ELI5: diffraction?,physics
+"In one paragraph, what is interference double slit?",physics
+Exam prep: polarization of light?,physics
+Study guide entry for special relativity time dilation?,physics
+Concept check: length contraction?,physics
+True or false background on mass-energy equivalence?,physics
+Why is general relativity elevator thought experiment taught in this subject?,physics
+How does black holes event horizon connect to other topics?,physics
+Quick facts about gravitational waves mention?,physics
+What textbook section covers thermodynamics zeroth law?,physics
+Discussion question about entropy increase?,physics
+Research topic: heat engines efficiency?,physics
+Notes on Carnot limit?,physics
+Clarify ideal gas law for me?,physics
+I am confused about kinetic theory of gases?,physics
+Difference between phase changes latent heat and related ideas?,physics
+Importance of quantization of energy?,physics
+Limitations or debates around photoelectric effect?,physics
+Modern view of photon energy equation?,physics
+Primary sources about Bohr model limitations?,physics
+Timeline involving quantum uncertainty principle?,physics
+Key vocabulary: wave-particle duality?,physics
+Problem set mentions Schrödinger equation mention?,physics
+Lab report context: quantum tunneling?,physics
+Essay prompt on nuclear binding energy?,physics
+Thesis idea involving half-life decay?,physics
+Analyze fission vs fusion?,physics
+Interpret standard model particles one-liner?,physics
+Critique Higgs mechanism mention?,physics
+Describe dark matter evidence?,physics
+Outline dark energy basics?,physics
+List three things about cosmic microwave background?,physics
+What would you teach first about Hubble's law?,physics
+Study question: measurement and significant figures?,physics
+Practice question on vectors components?,physics
+Mock test: projectile motion?,physics
+Review sheet item: relative velocity?,physics
+Midterm might include inclined plane problems?,physics
+Final exam topic pulleys and tension?,physics
+AP-style question on buoyancy Archimedes principle?,physics
+IB question on fluid continuity equation?,physics
+SAT-related: Bernoulli principle flight?,physics
+Remedial help with viscosity basics?,physics
+Honors class question on thermal expansion?,physics
+Dual enrollment question: specific heat capacity?,physics
+What is an atom?,chemistry
+What is a molecule?,chemistry
+Define element vs compound,chemistry
+What is the periodic table?,chemistry
+What is a chemical reaction?,chemistry
+How do you balance equations?,chemistry
+What is pH?,chemistry
+What is an acid?,chemistry
+What is a base?,chemistry
+What is neutralization?,chemistry
+What is a mole in chemistry?,chemistry
+What is molar mass?,chemistry
+What is stoichiometry?,chemistry
+Ionic vs covalent bonds,chemistry
+What is electronegativity?,chemistry
+What is an isotope?,chemistry
+States of matter chemistry,chemistry
+What is a catalyst?,chemistry
+Oxidation and reduction basics,chemistry
+Gas laws chemistry,chemistry
+Ideal gas law question,chemistry
+What is enthalpy?,chemistry
+Lewis structures help,chemistry
+Limiting reagent problem,chemistry
+Percent yield calculation,chemistry
+Solution and solubility,chemistry
+What is Avogadro number?,chemistry
+Organic chemistry functional groups,chemistry
+Alkanes alkenes alkynes,chemistry
+What is titration?,chemistry
+Buffer solutions basics,chemistry
+Reaction rates and collision theory,chemistry
+Equilibrium constant Kc,chemistry
+Le Chatelier principle,chemistry
+Electrochemistry voltaic cell,chemistry
+Nuclear half-life,chemistry
+Radioactive decay,chemistry
+Periodic trends atomic radius,chemistry
+Ionization energy trend,chemistry
+Electronegativity trend,chemistry
+Naming ionic compounds,chemistry
+Naming covalent compounds,chemistry
+Significant figures in lab,chemistry
+Lab safety acids,chemistry
+Middle school: what is matter made of,chemistry
+Chem class: balancing combustion,chemistry
+AP chem thermodynamics delta G,chemistry
+Honors chemistry molality,chemistry
+College intro chem orbitals,chemistry
+s p d f blocks,chemistry
+VSEPR theory shapes,chemistry
+Hybridization sp3,chemistry
+Intermolecular forces,chemistry
+Hydrogen bonding water,chemistry
+Colligative properties,chemistry
+Osmosis diffusion,chemistry
+Enzymes as catalysts bio link,chemistry
+Photosynthesis chemical equation,chemistry
+Respiration equation,chemistry
+Combustion of methane balanced,chemistry
+Salt dissolving in water,chemistry
+Precipitation reaction,chemistry
+Single replacement reaction,chemistry
+Double replacement reaction,chemistry
+Synthesis decomposition,chemistry
+Oxidation numbers how to assign,chemistry
+Redox in acidic solution,chemistry
+Galvanic vs electrolytic,chemistry
+Faraday law,chemistry
+Nernst equation mention,chemistry
+Phase diagram water,chemistry
+Critical point,chemistry
+Distillation separation,chemistry
+Chromatography basics,chemistry
+Spectroscopy IR basics,chemistry
+Beer law absorbance,chemistry
+Quantum numbers n l ml ms,chemistry
+Pauli exclusion principle,chemistry
+Aufbau principle,chemistry
+Hund rule,chemistry
+Electron configuration iron,chemistry
+Transition metals properties,chemistry
+Coordination complexes intro,chemistry
+Ligand field,chemistry
+SN1 SN2 comparison,chemistry
+Markovnikov rule,chemistry
+Aromatic benzene,chemistry
+Carboxylic acid reactions,chemistry
+Ester formation,chemistry
+Amide peptide bond,chemistry
+Polymers addition condensation,chemistry
+Green chemistry principles,chemistry
+Molality vs molarity,chemistry
+Normality old term,chemistry
+Dilution equation M1V1,chemistry
+Serial dilution lab,chemistry
+Standard solution preparation,chemistry
+What is a CPU?,technology
+What is RAM?,technology
+How does binary work?,technology
+What is an algorithm?,technology
+What is programming?,technology
+Python vs JavaScript,technology
+What is HTML?,technology
+What is CSS?,technology
+How does the Internet work?,technology
+What is HTTP?,technology
+What is HTTPS?,technology
+What is an IP address?,technology
+What does a router do?,technology
+What is DNS?,technology
+What is TCP vs UDP?,technology
+What is an API?,technology
+What is SQL?,technology
+What is Git?,technology
+What is encryption?,technology
+What is an operating system?,technology
+What is cloud computing?,technology
+Middle school: what is a computer,technology
+Binary addition basics,technology
+Boolean AND OR NOT,technology
+What is a firewall?,technology
+What is phishing?,technology
+What is MFA?,technology
+How does Wi-Fi work?,technology
+What is NAT?,technology
+What is DHCP?,technology
+What is a subnet mask?,technology
+IPv4 vs IPv6,technology
+What is a database index?,technology
+REST API basics,technology
+What is JSON?,technology
+What is Node.js?,technology
+What is a compiler vs interpreter?,technology
+Big O notation intro,technology
+Recursion programming,technology
+What is a loop?,technology
+What is a variable in code?,technology
+What is a function?,technology
+What is object oriented programming?,technology
+What is a data structure list vs array,technology
+Hash table basics,technology
+Stack vs queue,technology
+Sorting bubble sort idea,technology
+What is machine learning high level,technology
+What is a neural network ELI5,technology
+What is open source?,technology
+What is Linux?,technology
+What is a kernel?,technology
+What is a process vs thread?,technology
+Virtual memory basics,technology
+What is SSD vs HDD?,technology
+What is cache L1 L2,technology
+GPU vs CPU,technology
+What is floating point,technology
+Unicode vs ASCII,technology
+What is regex?,technology
+What is Docker high level,technology
+What is Kubernetes one line,technology
+What is CI CD,technology
+What is a bug in software,technology
+Version control why,technology
+What is a pull request,technology
+What is XSS,technology
+What is SQL injection,technology
+HTTPS certificate basics,technology
+Public key cryptography simple,technology
+What is blockchain high level,technology
+What is a cookie web,technology
+Session vs cookie,technology
+OAuth basics,technology
+What is latency vs bandwidth,technology
+What is packet switching,technology
+OSI model layers mnemonic,technology
+Ethernet vs Wi-Fi,technology
+What is localhost 127,technology
+What is port number,technology
+What is a socket programming,technology
+Client server model,technology
+What is JSON Web Token,technology
+GraphQL vs REST,technology
+NoSQL vs SQL,technology
+What is Redis use case,technology
+What is a load balancer,technology
+Horizontal vs vertical scaling,technology
+What is serverless,technology
+What is IaaS,technology
+What is SaaS,technology
+What is PaaS,technology
+IDE vs text editor,technology
+What is debugging,technology
+What is a stack trace,technology
+Unit testing basics,technology
+What is agile,technology
+What is Scrum one line,technology
+What does E=mc2 mean?,physics
+What does e=mc2 mean in physics?,physics
+Explain E equals mc squared,physics
+What is the meaning of E mc 2,physics
+Einstein equation E equals mc squared,physics
+Why is c squared in E equals mc squared,physics
+Mass energy equivalence formula,physics
+What is mass energy equivalence,physics
+How does mass convert to energy physics,physics
+What did Einstein mean by E equals mc squared,physics
+AP physics question on E=mc^2,physics
+Honors physics E mc squared problem,physics
+College physics special relativity E equals mc2,physics
+Define the famous equation E equals mc squared,physics
+Is E equals mc2 from special relativity,physics
+What units for E in E equals mc squared,physics
+Rest energy of a particle E equals mc2,physics
+Binding energy and E equals mc squared,physics
+Nuclear physics and Einstein mass energy,physics
+Fission and E equals mc squared relationship,physics
+Fusion reactor physics E mc2,physics
+Photons and E equals mc2 zero mass,physics
+Lorentz factor vs E equals mc2 intro,physics
+Difference between classical energy and E equals mc2,physics
+Study guide Einstein E mc2,physics
+Exam tomorrow on mass energy equivalence,physics
+I do not understand E equals mc squared,physics
+Teacher asked what E mc2 means,physics
+Why is the speed of light in E equals mc squared,physics
+What is c in the equation E equals mc squared,physics
+Einstein 1905 paper mass energy,physics
+Historical context of E equals mc squared,physics
+What is relativistic energy formula related to E mc2,physics
+Derive E equals mc squared sketch,physics
+Conceptual question E equals mc2 without numbers,physics
+Who was Albert Einstein physics contribution,physics
+What did Einstein discover in physics,physics
+Einstein theory of relativity basics,physics
+Special relativity vs general relativity which came first,physics
+What is special relativity in simple terms,physics
+Twin paradox physics relativity,physics
+Time dilation explained physics class,physics
+Length contraction special relativity,physics
+Spacetime diagram physics intro,physics
+What is a light year in physics,physics
+Why nothing can go faster than light physics,physics
+Michelson Morley experiment significance physics,physics
+what are metaphors,english
+What are metaphors in literature,english
+Explain what metaphors are english class,english
+Metaphors vs similes english homework,english
+what is the bill of rights,american_history
+What is the Bill of Rights US Constitution,american_history
+Explain the first ten amendments bill of rights,american_history
+Bill of rights history quiz,american_history
+what is an integer,math
+What is an integer in math,math
+Define integer algebra 1,math
+Is negative three an integer mathematics,math
+bill of rights american history topic,american_history
+What is the bill of rights in US history class,american_history
+Founding era bill of rights James Madison history,american_history
+Antifederalists and the bill of rights history,american_history
+1791 bill of rights ratification history,american_history
+Constitutional convention and bill of rights history,american_history
+First ten amendments bill of rights historical context,american_history
+AP US history bill of rights essay,american_history
+Who wrote the bill of rights historical figure,american_history
+Bill of rights versus articles of confederation history,american_history
+Colonial rights and bill of rights origins history,american_history
+Study guide bill of rights us history exam,american_history
+what is the bill of rights for ap us history,american_history
+explain the bill of rights founding period,american_history
+bill of rights first ten amendments history class,american_history
+what does the bill of rights protect historically,american_history
+bill of rights antifederalist compromise history,american_history
+us history bill of rights meaning,american_history
+constitutional history bill of rights 1791,american_history
+madison and the bill of rights history,american_history
+federalist papers context bill of rights history,american_history
+reconstruction and bill of rights later amendments history,american_history
+bill of rights civil liberties history not civics exam,american_history
+colonial charters influence on bill of rights history,american_history
+english bill of rights 1689 influence on us bill of rights history,american_history
+virginia declaration of rights and bill of rights history,american_history
+state ratifying conventions bill of rights history,american_history
+george mason bill of rights history,american_history
+why was the bill of rights added history,american_history
+enumerated rights bill of rights history quiz,american_history
+bill of rights landmark supreme court cases history,american_history
+incorporation doctrine bill of rights history overview,american_history
+what is the bill of rights simple us history,american_history
+middle school what is the bill of rights,american_history
+homework what is the bill of rights history,american_history
+timeline bill of rights ratification us history,american_history
+primary source bill of rights history document,american_history
+compare articles of confederation to bill of rights history,american_history
+new york ratification debates bill of rights history,american_history
+northwest ordinance era bill of rights history,american_history
+early republic bill of rights history,american_history
+war of 1812 era bill of rights history context,american_history
+jacksonian democracy bill of rights history angle,american_history
+civil war era bill of rights history,american_history
+progressive era bill of rights history,american_history
+great depression bill of rights history,american_history
+cold war bill of rights history civil liberties,american_history
+what is an integer basic math,math
+define integer number line math,math
+is zero an integer mathematics,math
+integers vs whole numbers math class,math
+integer arithmetic math homework,math
+positive and negative integers math,math
+what is an integer not programming,math
+integer in discrete math,math
+set of integers symbol math,math
+integer addition math problem,math
+middle school what is an integer,math
+algebra 1 integers lesson,math
+counting numbers versus integers math,math
+integer solutions math diophantine,math
+subset of integers math,math

@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Academic Tutor</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&family=Instrument+Serif&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/style.css" />
+  </head>
+  <body>
+    <div class="bg-grid" aria-hidden="true"></div>
+    <div class="app">
+      <header class="header">
+        <div class="brand">
+          <span class="logo" aria-hidden="true">◆</span>
+          <div>
+            <h1>Academic Tutor</h1>
+            <p class="tagline">Multisubject assistant · High school &amp; college</p>
+          </div>
+        </div>
+        <div class="header-controls">
+          <button
+            type="button"
+            class="theme-toggle"
+            id="themeToggle"
+            aria-label="Toggle dark mode"
+            aria-pressed="false"
+          >
+            <span class="theme-toggle-icon" aria-hidden="true">◐</span>
+            <span id="themeToggleText">Dark mode</span>
+          </button>
+          <div class="header-right" id="statusPill">
+            <span class="dot" id="statusDot"></span>
+            <span id="statusText">Checking…</span>
+          </div>
+        </div>
+      </header>
+
+      <div class="alert" id="modelAlert" hidden>
+        <strong>Model not ready.</strong>
+        <span id="modelAlertMsg"></span>
+      </div>
+
+      <main class="chat-panel" id="chatPanel" role="log" aria-live="polite" aria-relevant="additions">
+        <div class="welcome" id="welcome">
+          <h2>Ask a question</h2>
+          <p>
+            I route your question to one of <strong>seven subjects</strong> (American History, Math, English, Art, Politics, Biology, Physics) and answer from a curated knowledge base. You can also say <strong>hi</strong> or <strong>thanks</strong> &mdash; I will respond in kind.
+          </p>
+          <ul class="chips" id="suggestions">
+            <li><button type="button" class="chip" data-q="Hello!">Greeting</button></li>
+            <li><button type="button" class="chip" data-q="What was the Emancipation Proclamation?">American History</button></li>
+            <li><button type="button" class="chip" data-q="How does the Pythagorean theorem work?">Math</button></li>
+            <li><button type="button" class="chip" data-q="What is a metaphor?">English</button></li>
+            <li><button type="button" class="chip" data-q="What is Impressionism?">Art</button></li>
+          </ul>
+        </div>
+      </main>
+
+      <footer class="composer">
+        <form class="composer-inner" id="chatForm" autocomplete="off">
+          <label for="message" class="visually-hidden">Your question</label>
+          <textarea
+            id="message"
+            name="message"
+            rows="1"
+            placeholder="Type a question…"
+            maxlength="2000"
+          ></textarea>
+          <button type="submit" class="send" id="sendBtn" aria-label="Send">
+            <span class="send-label">Send</span>
+            <span class="send-icon" aria-hidden="true">→</span>
+          </button>
+        </form>
+      </footer>
+    </div>
+    <script src="/app.js" defer></script>
+  </body>
+</html>

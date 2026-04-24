@@ -1,0 +1,36 @@
+{
+  "american_history": {
+    "thirteen colonies": "The Thirteen British colonies along the Atlantic coast (roughly 1607–1776) became the United States. They included Virginia, Massachusetts, New Hampshire, Maryland, Connecticut, Rhode Island, Delaware, North Carolina, South Carolina, New Jersey, New York, Pennsylvania, and Georgia. Regional economies differed: New England shipping and crafts, Middle colonies grain, Southern colonies plantation agriculture including enslaved labor.",
+    "middle passage": "The Middle Passage was the brutal sea voyage of the transatlantic slave trade, carrying enslaved Africans to the Americas under horrific conditions. It is central to understanding colonial economies and the moral crisis that shaped U.S. history."
+  },
+  "math": {
+    "long division": "Long division repeats divide-multiply-subtract-bring down to find how many times a divisor fits into a dividend digit by digit. Remainders can be written as r or continued as decimals. Estimating first (rounding the divisor) helps place the first digit of the quotient.",
+    "pemdas middle school": "PEMDAS reminds you: Parentheses, Exponents, Multiplication and Division left to right, Addition and Subtraction left to right. Example: 8 / 2(2+2) is debated online because strict left-to-right after parentheses gives 16; calculators differ — always follow your teacher's convention and use extra parentheses to avoid ambiguity."
+  },
+  "english": {
+    "noun": "A noun names a person, place, thing, or idea. Common nouns (city, dog) are general; proper nouns (Paris, Monday) are capitalized. Nouns can be subjects or objects; understanding them helps with agreement and sentence diagramming.",
+    "verb": "A verb shows action or state of being. Action verbs (run, think) describe what happens; linking verbs (is, seem) connect subject to descriptions. Middle school focus: tense consistency, subject-verb agreement, and helping verbs (has been, will go)."
+  },
+  "biology": {
+    "food chain": "A food chain shows one path of energy: producer to consumer to decomposer. A food web is many linked chains. Energy decreases at each trophic level (roughly 10% rule), which limits chain length.",
+    "organ system middle school": "Organ systems are groups of organs working together — digestive, respiratory, circulatory, nervous, etc. Middle school often asks how structure fits function, e.g., alveoli increase surface area for gas exchange."
+  },
+  "physics": {
+    "kinetic energy middle school": "Kinetic energy is energy of motion: KE = 1/2 m v^2 in SI units (joules when mass is kg and speed is m/s). Doubling speed quadruples KE, which is why car crashes at high speed are much more dangerous.",
+    "potential energy gravitational middle school": "Gravitational potential energy near Earth is often PE = m g h with g about 9.8 N/kg. Lifting a book stores energy in the Earth-book system; dropping converts PE to KE (ignoring air friction for simple problems)."
+  },
+  "politics": {
+    "three levels of government middle school": "In the U.S. students often learn federal (national), state, and local governments. Federal makes national laws; states run schools and roads locally; cities and counties provide police, parks, and zoning. Federalism divides powers among them."
+  },
+  "art": {
+    "primary colors middle school": "In paint, red, yellow, and blue are often taught as primaries; mixing pairs makes secondaries (orange, green, purple). Digital design uses RGB light primaries instead — the idea of mixing depends on whether you add light or pigment."
+  },
+  "chemistry": {
+    "chemical change vs physical change": "A physical change alters form without new substances (ice melting). A chemical change forms new substances with new properties (iron rusting, burning wood). Clues include gas production, color change with heat, or permanent temperature change in a closed system.",
+    "avogadro number": "Avogadro's number is about 6.022 x 10^23 particles per mole, linking the microscopic world to measurable grams via molar mass."
+  },
+  "technology": {
+    "boolean logic": "Boolean logic uses true/false with AND, OR, NOT gates. Circuits implement these operations; computers represent true/false as 1/0 bits. De Morgan laws relate AND/OR with NOT for simplifying expressions.",
+    "what is an ip address middle school": "An IP address labels a device on a network so packets can be routed. IPv4 looks like four numbers 0–255. Your router assigns private addresses inside your home and uses one public address toward your ISP (NAT)."
+  }
+}
